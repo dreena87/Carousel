@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+
+.slideShow-container {
+    margin: 0 auto;
+    max-width: 1200px;
+    text-align: center;
+}
+
+.div1, .div2, .div3 {
+    height: 500px;
+    width: 100%;
+    background-color: red;
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
+
+.div1 {
+    background-image: url("../images/book.jpg");
+}
